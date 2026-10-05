@@ -52,7 +52,6 @@ p::Send "^+{F9}"    ;; Keepass, auto-type
 k::Run "C:\Program Files\KeePass\KeePass.exe"
 b::Run "powercfg.cpl"
 n::Run "C:\Program Files\Notepad3\Notepad3.exe"
-m::Run "G:\AutoHotkey\_tmp\Outlook (new).lnk"
 Left::Send "{Media_Prev}"
 Right::Send "{Media_Next}"
 Up::Send "{Volume_Up}"
