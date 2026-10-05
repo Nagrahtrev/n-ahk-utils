@@ -10,7 +10,7 @@ global IsClicking := false
 
 Home:: {
     global IsClicking := !IsClicking
-    
+
     clickInterval := 100
 
     if (IsClicking) {
